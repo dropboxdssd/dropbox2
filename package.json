@@ -1,6 +1,33 @@
 {
   "requires": true,
   "lockfileVersion": 1,
+  "dependencies": {},
+  "name": "dropbox2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dropboxdssd/dropbox2.git"
+  },
+  "keywords": [
+    "dropbox"
+  ],
+  "author": "fer seba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dropboxdssd/dropbox2/issues"
+  },
+  "homepage": "https://github.com/dropboxdssd/dropbox2#subirimagenes.html",
+  "description": ""
+  
+  
+  
+  "requires": true,
+  "lockfileVersion": 1,
   "dependencies": {
     "agent-base": {
       "version": "2.1.1",
@@ -615,4 +642,8 @@
       "integrity": "sha1-UqY+VsoLhKfzpfPWGHLxJq16WUM="
     }
   }
+
+
+  
+  
 }
